@@ -1,1 +1,1 @@
-### This is the double zipped file for the obsidian theme (extrate this in different folder)
+### This is the double zipped file for the obsidian theme (extract this in different folder)
